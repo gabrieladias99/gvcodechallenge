@@ -21,7 +21,7 @@ Por isso, o nosso desafio nessa segunda fase do GVCode é um desafio prático de
  1. Olhar a lista de projetos disponíveis e **escolher um**
  2. Reunir-se em **até duas pessoas** para resolver o case
  3. **Estudar** o necessário para resolver o desafio
- 4. **Enviar até 21/03** o arquivo do desafio por e-mail 
+ 4. **Enviar até 21/03** o arquivo do desafio por e-mail no gvcodemaster@gmail.com
 
 Bem simples, não? Ah, no final nós vamos te dar algumas dicas e guidelines sobre como resolver os desafios.
 
@@ -129,6 +129,8 @@ Neste projeto, você terá que criar um banco de questões com múltiplas escolh
 Agora que você já escolheu o seu desafio, está na hora de estudar e aprender sobre python!
 Aqui a gente separou alguns materiais em português e inglês para te ajudar com esse desafio:
 
+### Materiais
+
  - **Instalando Python:** https://www.youtube.com/watch?v=VuKvR1J2LQE
  -  **Aprenda Python em 10 min**:https://www.youtube.com/watch?v=Q8eajxcS6dQ
 	 - Nesse curso ele vai codar usando um site para te ajudar a aprender
@@ -140,3 +142,9 @@ Aqui a gente separou alguns materiais em português e inglês para te ajudar com
 - **Documentação Python:** https://docs.python.org/pt-br/3/tutorial/index.html
 	- A referência básica da linguagem se encontra aqui
 
+### Dicas
+- Nós somos uma entidade **colaborativa**, isso quer dizer que não tem ninguém competindo com você. Ou seja, não temos limites de vagas e a sua candidatura não é comparativa. Então, se você apresentar bons resultados no case e estiver alinhado com a cultura do GVCode, você ta dentro. 
+- Por isso, estimulamos fortemente que **vocês colaborem entre si**, inclusive entre duplas, temos um grupo no whats para isso que pode ser acessado no seguinte link:
+- Ah, não tente somente copiar e colar o código da internet, vamos pedir que você explique a lógica por trás da sua resolução, então nada de colar
+- Sinta-se a vontade para chamar o pessoal do GVCode para **tirar dúvidas**. Iremos ajudar sempre que possível, porém *não podemos resolver o case para você*.
+- Por fim: **DIVIRTA-SE!!** Programação é para ser diversido e desafiador, então esperamos que além do desafio, vocês tenha uma experiência bacana.
